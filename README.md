@@ -1,4 +1,4 @@
-# Project Title -- al Mohamady Sample
+# Project Title -- SUDOKU Sample
 
 One Paragraph of project description goes here
 
